@@ -1,0 +1,10 @@
+#推理测试
+在testing目录下默认图片为image_2路径，标定文件为calib路径，模型文件为tools/logs/路径
+准备好图片后要运行testing目录下的create_imagesets_testcal_sort.py文件生成图片索引
+推理命令为： python tools/plain_train_net.py --eval-only --config-file "configs/smoke_gn_vector.yaml"
+最后一次推理用的是kitti原始模型，configs/smoke_gn_vector.yaml中的标签是3类，自己做的carla数据集时用的是1类
+推理得到的是标签文件，路径为tools/logs/inference/
+再运行kitti_3d_vis.py可视化标签文件，图片保存在temp_ed_vis路径下
+
+
+

@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+/home/ubuntu/lcj/SMOKE/smoke/csrc/vision.cpp
+/home/ubuntu/lcj/SMOKE/smoke/csrc/cpu/dcn_v2_cpu.cpp
+/home/ubuntu/lcj/SMOKE/smoke/csrc/cpu/dcn_v2_im2col_cpu.cpp
+/home/ubuntu/lcj/SMOKE/smoke/csrc/cpu/dcn_v2_psroi_pooling_cpu.cpp
+/home/ubuntu/lcj/SMOKE/smoke/csrc/cuda/dcn_v2_cuda.cu
+/home/ubuntu/lcj/SMOKE/smoke/csrc/cuda/dcn_v2_im2col_cuda.cu
+/home/ubuntu/lcj/SMOKE/smoke/csrc/cuda/dcn_v2_psroi_pooling_cuda.cu
+smoke.egg-info/PKG-INFO
+smoke.egg-info/SOURCES.txt
+smoke.egg-info/dependency_links.txt
+smoke.egg-info/top_level.txt

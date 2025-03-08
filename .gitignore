@@ -1,0 +1,6 @@
+__pycache__/
+build/
+/datasets/
+tools/logs/*
+.DS_Store
+*.pyc

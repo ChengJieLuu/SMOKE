@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: smoke
+Version: 0.1
+Summary: Single-Stage Monocular 3D Object Detection via Keypoint Estimation
+Home-page: https://github.com/lzccccc/SMOKE
+Author: lzccccc
+License-File: LICENSE
